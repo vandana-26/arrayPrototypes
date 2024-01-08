@@ -8,3 +8,5 @@ High Order functions -> A function which takes another function as an argument o
 Examples:
 [1, 2, 3, 4].myFilter((value) => value % 2 == 0); // [2, 4]
 [1, 2, 3, 4].myFilter((value) => value < 3); // [1, 2]
+
+2. bind
